@@ -1,5 +1,5 @@
 //--CREATE EVENT--
-///Create "movespeed" variable"
+///Create "movespeed" variable
 movespeed = 5; //Or whatever value
 
 
