@@ -1,3 +1,11 @@
+//--CREATE EVENT--
+///Create "movespeed" variable"
+movespeed = 5; //Or whatever value
+
+
+
+
+//--STEP EVENT--
 ///Create input variables
 var key_left = keyboard_check(vk_left) || keyboard_check(ord('A'));
 var key_right = keyboard_check(vk_right) || keyboard_check(ord('D'));
